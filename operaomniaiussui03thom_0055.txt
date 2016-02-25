@@ -1,0 +1,173 @@
+ 
+
+ 
+
+CAP. II, LECT. 111
+
+principiis mathematicis: non enim est omnino
+aliud genus, sed quodammodo sub illo continetur.
+
+Item videtur esse falsum quod solae duae ma-
+gnitudines sint simplices, scilicet recta et circularis.
+Elix enim videtur esse una linea simplex, quia
+omnis pars eius est uniformis3 et tamen linea
+elica nec est recta nec est circularis. - Sed dicen-
+dum quod elix, si quis eius originem consideret,
+non est linea simplex, sed mixta ex recta et cir-
+culari. Causatur enim elix ex duobus motibus ima-
+ginatis, quorum unus est lineae* circumeuntis co-
+· lumnam, alius autem* est puncti moti per lineam:
+si enim uterque motus simul et regulariter perfi-
+ciatur, constituetur elica linea per motum puncti
+in linea mota.
+
+Item videturquod motus circularis non sit sim-
+plem‘Partes enim sphaerae circulariter motae non
+uniformiter moventur, sed pars quae est circa
+polos vel circa centrum, movetur tardius, quia
+peragit minorem circulum in eodem ternpore: et
+ita motus sphaerae videtur compositus ex tardo
+et veloci.- Sed dicendum quod continuum non
+habet partes in actu, sed solum in potentia: quod
+autern non est actu, non movetur actu: unde
+partes sphaerae, eum sint * corpus continuum, non
+moventur actu ²⁸. Unde non sequitur quod in motu
+sphaerico vel circulari, sit diversitas actualis, sed
+solum potentialis; quae non repugnat simplicitati
+de qua nunc loquimur; omnis enim magnitudo
+habet pluralitatem potentialem.
+
+7. Deinde cum dicit: Circulatio quidem igitur etc.,
+distinguit motus simplices. Et primo ponit unum,
+scilicet circularem; secundo ponit duos rectos,
+ibi: Rectus autem * etc.; tertio concludit nume-
+· rum * ternarium simplicium motuum, ibi: Itaque
+necesse ²* etc. - Dicit ergo primo quod circulatio,
+idest motus circularis, dicitur qui est circa me-
+dium. Et est intelligendum circa mundi medium‘:
+rota enim, quae movetur circa medium sui, non
+movetur proprie circulariter; sed motus eius est
+compositus ex elevatione et depressione.
+
+Sed videtur secundum hoc quod non omnia
+corpora caelestia circulariter moveantur: narn, se-
+cundum Ptolomaeum, motus planetarum est in
+excentricis et epicyclis; qui quidem motus non
+sunt circa medium mundi, quod est centrum ter-
+rae, sed circa quaedam alia centra. - Dicendum
+¹‘est autem ³* quod Aristoteles non fuit huius opi-
+2 aionis, sed existimavit quod omnes motus cae-
+lestium corporum sunt circa centrum terrae, ut
+ponebant astrologi sui temporis. Postmodum au-
+tem Hipparchus et Ptolomaeus adinvenerunt mo-
+tus excentricorum et epicyclomm, ad salvandum
+ea quae apparent sensibus ς in corporibus cae-
+
+ε) mundi medium. - centrum mundi· A, non male, sed minus ad rem
+in praesenti loco, ubi 5. Thomas, ad explicandum illud Aristotelis circa
+medium, distinguit inter medium sui et medium mundi. -Post unam lin.
+eius orn. codd. exe. A; lin. seq. pro depressione corrupte depravatione F.
+
+ζ) sensibus.-sensibiliter codd. Eadem sententia in Summ. neon 1 Ρ.,
+qu. xxxn, art. 1, ad 2, enunciatur ho'c modo: « in astrologia ponitur ratio
+excentrioorum et epieyclorum ex hoc quod, hac positione facta, possunt
+salvari apparentia sensibilia circa motus caelestes.» Hoc autem videtur
+
+irtidictareAmagis lectionem codd. quam Ρ. - Pro demonstratum, demon—
+s ra ιο .
+
+ll
+
+lestibus. Unde hoc non est demonstratum, sed
+suppositio quaedam. Si tamen hoc verum sit, ni-
+hilominus omnia corpora caelestia moventur circa
+centrum mundi secundum motum diurnum, qui
+est motus supremae sphaerae revolventis totum
+caelum. >
+
+8. Deinde cum dicit: Rectus autem etc., distin-
+guit motum rectum in duos, scilicet in eum qui
+est sursum, et in eum qui est deorsum: et de-
+
+scribit utrumque per habitudinem * ad medium ·
+
+mundi, sicut descripserat ’μ motum circularem,
+ut sit uniformis descriptio. Et dicit quod motus
+sursum est qui est a medio mundi‚· motus autem
+deorsum qui est ad medium mundi. Quorum
+primus est motus levium, secundus motus gra-
+vium η.
+
+9. Deinde cum dicit: Itaque necesse etc., con-
+cludit numerum simplicium motuum. Et primo
+inducit conclusionem intentam: et dicit '²‘ quod
+necesse est simplicem lationem, idest motum lo-
+calem, quendam esse a medio, et hic est motus
+sursum corporum levium3 quendam vero esse
+ad medium, et hic est motus deorsum corpo-
+rum gravium; aliurn vero esse circa medium, et
+huiusmodi est motus circularis corporum caele-
+stium. .
+
+10. Secundo ibi: Et videtur sequi etc., osten—
+dit hanc conclusionem supra dictis congruere.
+Et dicit quod hoc quod dictum est de numero
+simplicium motuum, videtur consequenter se ha-
+bere ad id quod supra * dictum est de perfectione
+corporis: sicut enim perfectio corporis consistit θ
+in tribus dimensionibus, ita et motus simplices
+corporis in tres distinguuntur. Hoc autem dicit
+esse secundum rationem, idest secundum pro-
+babilitatem quandam: non enirn proprie tres mo-
+tus coaptantur tribus dimensionibus.
+
+11. Deinde cum dicit: Quoniam autem corpo-
+rum etc., ponit quaedam ex parte corporum mobi-
+lium. Circa quod sciendum est quod, sicut habi-
+turn est in 111 Physic. *, motus ‘ est actus mobilis;
+actus autem proportionatur perfectibili; unde opor-
+tet motus proportionari corporibus mobilibus. Sunt
+autem corporum quaedam simplicia, quaedam
+composita. Simplex autem corpus est quod habet
+principium alicuius naturalis motus in seipso “3 si-
+cut patet de igne, qui est simpliciter levis, et de
+terra, quae est simpliciter gravis, et de speciebus
+horum (sicut flamma dicitur esse quaedam species
+ignis, et bitumen quaedam species terrae). Addit
+autem et cognata his, propter media elementa;
+quorum aer habet maiorem affinitatem cum igne,
+aqua vero curn terra. Et per consequens necesse
+est corpus mixtum esse quod non habet in se se—
+
+η) Quorum... gravium. - Unde primus est* motus levium, secundus
+autem est motus gravium P ; sed non videtur contextus postulare hoc
+in loco formam illativam; cf. num. seq.
+
+θ) sicut enim perfectio corporis consistit. - quae sicut consistit P. -
+Post unam lineam pro corporis, corporum A; eadem linea pro dicit,
+dicitur P.
+
+ι) quod, sicut habitum est in ΙΙΙ Ηιγ3ἰε., motus.— ut dicitur in
+III Phssic„ quod motus P.
+
+κ) in seipso. - Addit A: unum scilicet principium huius motus, quae
+ex margine in textum irrepsisse videntur.
+
+· dicit orn. Ρ.
+
+· Lcct. praeced.
+
+n. 8.
+
+sciis. ‘1'2'0813 ξ
+
+n. 6.
+
+aptiiudinem
+codd. exc. Α.
+· Num. praec.
+
+0
+
+ι
+
