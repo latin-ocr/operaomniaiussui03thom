@@ -1,0 +1,190 @@
+· Cf. leet. x, n. 1.
+
+* Lect. seq.
+
+' Num. seq.
+
+* Num. 8.
+
+* Num. 7.
+
+' Num. 6.
+
+186
+
+in orientem. Mercurio autem, praeter istos motus, attribuerunt
+quartum, quo scilicet centrum sphaerae ipsius movetur in quo-
+dam parvo circulo circa centrum mundi. Lunae vero, praeter
+istos quatuor motus, attribuerunt quintum, scilicet motum ca-
+pitis et caudae, quo moventur nodi in quibus sphaera eius
+secat zodiacum. Sed soli, praeter motum diurnum, non attri-
+buerunt nisi duos motus: unus quo movetur in suo excentrico,
+alter quo sphaera eius movetur ab occidente in orientem. -
+Quia ergo Mercurio et lunae, qui sunt inferiores planetarum,
+attribuunt plurimos motus; soli vero, quem ponunt medium,
+paucissimos; ceteri autem superiores planetae medio modo se
+habent in numero motuum, patet Aristotelis dubitationem in
+hoc systemate vere procedere. — 6. Probatur id quod suppositum
+fuit supra (n. 3), scilicet quod ordo planetarum se habet sicut
+ibi dictum est. Et primo quantum ad aliquos planetas, per hoc
+quod ipse viderat, nempe occultationem Martis per interposi-
+tionem lunae inter ipsum et nos; quod contingere non posset,
+
+ 
+
+-ν W. &quasdam dubitationes circapraedicta*.
+Et circa hoc duo facit: primo ponit quaestiones,
+secundo solvit eas, ibi: Sed nos ut de corpori-
+bus ³⁵ etc. Circa primum tria facit: primo excu—
+sat se a praesumptione pertractandi has difficiles
+quaestiones3 secundo movet eas, ibi: Adhuc au-
+tem * etc.; tertio ostendit quaestionum difficulta-
+tem α, ibi: De his quidem ³³ etc.
+
+Dicit ergo primo quod, cum circa stellas sint
+duae dubitationes de quibus rationabiliter quilibet
+potest'dubitare, tentare debemus dicere circa istas
+dubitationes id quod nobis videtur; ita scilicet
+quod nos reputemus dignum esse β quod prompti·
+tudo hominis considerantis huiusmodi quaestioneS,
+magis debeat imputari verecundiae, idest honestati
+vel modestiae, quarn audaciae, idest praesum-
+ptioni3 si tamen ille qui huiusmodi dubitationes
+considerat, diligat etiam parvas sufficientius ⁷, idest
+parurn sufficientes rationes, ad inveniendum de
+illis rebus, de quibus habemus maximas dubita-
+tiones; et hoc propter desiderium quod quis habet
+ad philosophiam, ut scilicet eius principia stent,
+idest firma permaneant ὃ.
+
+2. Deinde cum dicit: Adhuc autem etc. (vel se-
+eundum aliam litteram, 'Est autem ⁸ etc.)‚ movet
+dubitationes duas: quarum secunda incipit ibi: Et
+hoc itaque* etc. Circa primum duo facit: primo
+movet quaestionem; secundo probat quod suppo-
+suerat, ibi: Palam autem hoc de quibusdam ’¹‘ etc.
+
+α) tertio ostendit quaestionum difficultatem. - tertio (autem add. D)
+ostendit quaestionem difficiliorem codd. exc. A; cf. tamen num. 8, ubi
+dicitur ostendit difficultatem harum quaestionum.
+
+β) Dicit ergo primo... dignum esse. — Est lectio A; cf. textum. Cet.
+omittunt sint duae... circa istas ,· pro reputemus, videtur Β, recurrere C,
+dicimus sD, reputamus sG; cet. omitt. hanc vocem, vel habent spatium
+vac. Istas corruptiones corrigit P-legendo: Dicit ergo primo, cum circa
+stellas sint dubitationes, id quod nobis videtur, ita scilicet quod nos
+dignum iudicemus esse omne; patet lectionem esse corruptam.
+
+γ) si tamen ille... parvas sufficientias. —lta A; P vero: sed debet
+ille.. diligere parvas suffleientias, quia nempe cet. tamen corrumpunt
+in debet, et etiam in est; cf. textum.
+
+ὃ) ut scilicet... permaneant. — Est lectio A. Editio Piana om. eius
+ante principia, et cum cet. pro firma legit sic. — ln hac s. Thomae
+expositione, verba propter desiderium quod quis habet ad philosophiam
+perfecte respondent textui graeco διὰ τὸ φιλοσοφίας διψῆν; dum quod
+sequitur, ut scilicet eius principia stent, refertur ad translationem pro-
+pter philosophiam stare, quod corrupte positum videtur pro propter
+philosophiam sitire.
+
+ε) vel secundum aliam litteram, Est autem etc.— Hoc om. P; cf.
+tamen textum graecum, ubi pro ”Em Didot, ’'Ert ed. Tauchn. et codd.
+
+DE CAELO ET MUNDO LIB. II
+
+nisi luna sit infra Martem. - Secundo quantum ad alios planetas,
+per ea quae alii viderunt, scilicet Aegyptii et Babylonii3 quorum
+studium maxime circa astrologiam fuit, et ex quibus multas ob-
+servationes de unaquaque stellarum habemus. - 7. Proponitur
+secunda dubitatio.- quare nempe in prima sphaera, quae mo-
+vetur primo motu, tanta sit multitudo stellarum3 in aliis autem
+inferioribus non sit nisi una stella. - Observandum quod ternpore
+Aristotelis nondum erat deprehensus motus proprius stellarum
+fixarum ab occidente in orientem: unde ponebant antiqui sphae-
+ram stellarum fixarum esse primum mobile, et eius esse unum
+motum tantum, nempe diurnum. - 8. Difficultas harum quae-
+stionum. Litterae interpretationes iuxta Alexandrum, Simplicium
+et Averroem. - Ista autem de quibus est quaestio, difficultatem
+habent: quia modicum de causis eorum percipere possumus,
+et accidentia ipsorum sunt magis remota a cognitione nostra,
+quam corpora ipsa sint distantia a nobis secundum situm eor-
+poralem.
+
+Circa primum, tria praeconsideranda ²⁸ sunt ad
+intellectum huius dubitationis. Quorum *primum est
+quod Aristoteles alium ordinem videtur assignare
+planetarum, quam astrologi nostri temporis. Primi
+enim astrologi posuerunt supremum planetam esse
+Saturnum ζ, post quem posuerunt Iovem, tertio
+loco Martem, quarto Solem, quinto Venerem, sexto
+Mercurium, septimo Lunam. Astrologi autem qui
+fuerunt tempore Platonis et Aristotelis, mutaverunt
+hunc ordinem quantum ad Solem, ponentes eum
+immediate * supra Lunam, sub Venere et Mercu—
+rio; quam positionem hic Aristoteles sequitur. Sed
+Ptolomaeus postea hunc ordinem planetarum cor-
+rexit η, ostendens verius esse quod antiqui dixe-
+runt; quod etiarn moderni astrologi sequuntur.
+
+Secundo considerandum est quod eirca motus
+planetarum quaedam anomaliae ²¹, idest irregula-
+ritates, apparent; prout scilicet planetae quandoque
+velociores, quandoque tardiores, quandoque sta·
+tionarii, quandoque retrogradi videntur *. Quod
+quidem non videtur esse conveniens caelestibus
+motibus, ut ex ⁸ supra *²* dictis patet. Et ideo Plato
+
+primus ⁰ hanc dubitationem Eudoxo, sui tem-
+
+poris astrologo, proposuit; qui huiusmodi irregu-
+
+laritates conatus est ad rectum ordinem reducere,
+
+assignando diversos motus planetis, quod etiam
+posteriores astrologi diversimode facere conati
+sunt. Illorum tamen suppositiones‘ quas adinve-
+nerunt, non est necessarium esse veras: licet enim,
+talibus suppositionibus factis, apparentia salvaren-
+
+tur, non tamen oportet dicere has suppositiones
+
+esse veras3 quia forte secundum aliquem alium
+
+ζ) Primi... Saturnum. - Nostri enim astrologi supremum planeta-
+rum dicunt esse Saturnum Ρ ; codd. exc. A omittunt posuerunt,· margo G
+pro Primi substituit Moderni; forte P et corrector codicis G respicie-
+bant ad astrologi nostri temporis, sed cf. quae sequuntur usque nd
+Secundo. - post quem posuerunt Iovem om. A.
+
+η) ordinem planetarum correxit.- ordinem correxit P et codices
+exc. A. — Pro ostendens, A corrupte omnes. ··- Pro antiqui dixerunt
+quod, Ρ et codd. exc. A Anaxagoras inducit quem. — Pro sequuntur,
+prosequuntur A. -
+
+0) Plato primus. - Sic A; prius Plato Pl, primus Plato cet. - Post
+unam lin. pro reducere assignando, quod habet A, inducere ad signan-
+dos P, inducere ad significandos cet. - Lin. seq. pro posteriores, po-
+stremi P et codd. exc. A.
+
+ι) Illorum tamen suppositiones. — Pro tamen P legit autem, quia
+codd. exc. A corrumpunt illud in rationes.- Pro apparentia salvarentur,
+apparentia salvaretur A, apparentia solvere cet„ quod P corrigit in
+appareant solvere; sed cs. post duas lineas apparentia circa stellas
+salvantur (ubi Ρ et codices excepto Α legunt salvatur). Cf. etiam not. ν.
+a et r: patet apparentia aut semper in singulari. aut semper in plurali
+sumendum esse. -- lbi quia sorte secundum aliquem alium modum,
+codices excepto A omittunt secundani,- etiam modum omittunt CDGsl,
+pro quo F habet spatium album.
+
+⁶ mediam ι·
+et codd. exem.
+
+'mucra
+cedmae-A.
+
+· stimma, em
+vide-ure«.
+
+'ia r ot codd.
+axefaciti-vrum.
+

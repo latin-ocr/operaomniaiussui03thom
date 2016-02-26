@@ -1,0 +1,171 @@
+‘'and-m
+
+CAP. v, LECT. x
+
+41
+
+motam in contrarium. - 4. Tertia ratio. Ex praemissis sequitur pore finito: nam neque spatium finitum pertransire potest tem-
+
+tempus quo linea infinita movetur per lineam finitam, esse in-
+
+pore finito. Porro caelum tempore finito circuit totum spatium
+
+finitum. Unde impossibile est corpus infinitum moveri per totum suum. Unde tali ternpore pertransit aliquam lineam finitam. Ergo
+
+spatium infinitum (in quo nempe imaginamur motum eius) tem-
+
+    
+
+· raemissa prima ratione, quae proce-
+-ἰ debat ad ostendendum corpus non
+, esse infinitum quod circulariter fer-
+'ffii'' tur, ex hoc quod distantia quae est
+inter duas lineas a centro egredientes erit infinita
+et impertransibilis, hic ponit secundam rationem,
+ex hoc quod lineae descriptae imaginatae in cor-
+pore infinito, sive in eius loco, non possunt se
+invicem intersecare.
+
+Et praemittit in hac ratione quoddam princi-
+pium, scilicet quod si a tempore finito subtrahatur
+tempus finitum, quod relinquitur α necesse est esse
+finitqtsss, quia pars finiti non potest esse infinita,
+alffiquin totum esset minus sua parte. Et si illud
+residuum temporis est finitum ‚ consequens est
+quod habeat principium: hoc enim tempus dici-
+mus esse finitum, quod habet principium et finem.
+
+- Demonstratum est autem in VI Pinysic. '¹' quod
+
+tempus et motus et mobile consequuntur· se invi-
+cem in hoc quod est esse finitum vel infinitum Ρ.
+Unde si tempus mensurans incessum sive mo-
+tum, est finitum et habens principium, necesse
+est quod motus sit finitus et quod *⁸ habeat prin-
+cipium, et quod etiam magnitudo mota sit finita
+et habens principium. Et sicut hoc dicimus in
+motu caeli, similiter oportet se habere * in aliis
+motibus et mobilibus.
+
+2. Istis igitur praemissis tanquam principiis,
+procedit ad‘ demonstrandum propositum. Suppo-
+natur ergo quod a centro corporis infiniti quod
+est A, protrahatur * quaedam linea, scillcet AGE ,
+quae sit infinita ad aliam partem, scilicet ex parte
+E; et intelligatur ista linea circumvolvi secundum
+motum totius corporis, et quod secundum pun-
+ctum G describat quendam circulum suo motu ⁷.
+Imaginemur etiarn in spatio imaginato in quo re-
+volvitur corpus infinitum, quandam lineam stan-
+tem immobilem, quae non transeat per centrum,
+sed sit infinita ex utraque parte, et sit linea BB. Si
+ergo, sicut dictum est, linea quae est AGE, sua
+incessione describat circulum a G ὃ, idest cuius
+semidiameter sit AG, continget quod linea AGE,
+
+a) quod relinquitur. - quod relinquetur B, relinquetur C, relin-
+quitur EpFG, reliquum AD. — Post unam lin. sua om. codd.
+
+β) finitum vel infinitum. - vel infinitum om. Ρ; cf. locum cit. -
+Post lin. pro er habens, habens A, et habet sEF, om. BDGpEFl.
+
+γ) suo motu. - sub motu P; ed. 1516 ut codd. - Pro Imaginemur
+etiam... quandam lineam stantem immobilem, prout habet A, Ρ legit
+Imaginetur etiam... quaedam linea stans immobilis‚· cet. codd. legunt
+cum A, nisi quod pro Imaginemur habent Imaginemus.
+
+δ) sua incessione describat circulum a G. - Pro incessione, deci-
+sione B, incisione cet.; legendum est incessione, sicut ante paucas
+lineas dictum est describat quendam circulum suo motu ,· idem enirn
+significat, de incisione lineae BB nondum sermo est. Pro a G, AGE P
+
+'non bene: nam patet ex contextu quod linea AGE intelligitur describere,
+
+dum circumvolvitur, quendam circulum secundum punctum G, seu, ut
+immediate additur, cuius semidiameter sit AG; DG1 videntur legere AG.
+Cf. text„ ubi codd. Bkk. EL om. κέντρου. - Post lin. pro circumeundo,
+quod hab. D, circuendo PAG, circueundo BCEFI: hic ultimus scribendi
+modus posset et ipse acceptari. Cf. Forcellini V. Circumeo. -lbi Manife-
+stum est enim, pro enim, quod orn. D, autem P et cet. exc. Α; enim
+legimus potius quam autem, quia hic manifestatur quare linea AGE, si
+moveatur ita quod circulum discribat, secabit totam lineam BB-
+
+Opp. D. Tuom T. III.
+
+impossibile est corpus quod circulariter movetur esse infinitum.
+
+circumeundo circulum praedictum, secabit totam
+lineam BB in ternpore finito. Manifestum est enirn
+quod semidiameter circuli non potest volvi in cir-
+cuitu nisi incidat vel secet successive totam lineam
+immobilem imaginatam in circulo extra centrum.
+Et quod tempus sit finitum in quo linea quae
+educitur a centro, secet lineam infinitam quae
+describitur extra centrum, manifestat per hoc quod
+totum tempus in quo caelum movetur, est fini-
+tum, sicut patet ad sensum: unde consequens
+est quod pars illius temporis, quod aufertur a toto
+tempore, sit :finita ²²⁸, in quo scilicet linea AGE in-
+cidit lineam BB. Vel potius sequitur illud tempus
+esse finitum, in quo illa linea incidens fertur usque
+ad lineam quae inciditur; et hoc oportet auferri
+a toto tempore finito, ut residui temporis accipia-
+tur quoddam principium, secundum principium*
+supra ⁴· positum. Sequitur ergo quod sit aliquod
+principium temporis, in quo linea AGE incipit
+incidere lineam BB. Hoc autem est impossibile:
+quia, cum unam partem incidat ante aliam, si sit
+dare principium temporis in quo incipit incidere,
+esset dare principium aliquod ζ in linea infinita,
+quod est contra rationem infiniti. - Sic ergo patet
+quod corpus infinitum non contingit revolvi cir-
+culariter. Unde si mundus sit infinitus, sequitur
+quod non moveatur circulariter. Videmus autem
+firmamentum moveri circulariter: non ergo est
+infinitum. ’
+
+3. Tertiam rationem ponit ibi: Adhuc autem et
+ex his etc.: et sumitur haec ratio ex infinitate totius
+corporis quod ponitur circulariter moveri. Dicit
+ergo quod ex his etiam quae sequuntur, mani-
+festum est quod impossibile est corpus infinitum '¹
+moveri circulariter. Praemittit autern quod si sint
+duae lineae finitae, quarum una sit A et alia B,
+ita quod A feratur iuxta B quiescentem ⁰, ex ne-
+cessitate sequitur quod simul linea mota quae
+est A, separetur a linea stante quae est B, et e
+contra linea stans quae est B, separetur a linea
+mota quae est A. Et huius ratio est, quia quantam
+partem una earum accipit de alia, tantam e con-
+
+ε) secundum principium. - Hoc om. BCDFGI, utique quia homote-
+leuton est. - Post unam lin. pro incipit incidere, incipit intrare A, in-
+ceperit incidere P.
+
+ζ) principium aliquod.- principium aliquid CFG‚ primum aliquid cet.
+Retinemus principium aliquod, iuxta modum loquendi adhibitum in prae-
+cedentibus (cf. etiam num. praeced.). Revera non agitur hic de quae-
+stione an in linea vel quolibet alio continuo sit dare aliquid primum, seu
+aliquam primam partem: hoc enim esse contra rationem continui, in VI
+Physic. (lect. vn, num. 5 seqq.) ostenditur, ex eo quod omne continuum
+est divisibile, et ideo, si poneretur dari tali modo aliquid primum in
+continuo, sequeretur absurdum quod aliquid esset prius primo. Sed hoc
+in praesenti loco asseritur, scilicet: si tempus quo una linea incidit aliam
+habet principium, etiam linea quae inciditur habeat principium oportet.
+Principium autem temporis vel lineae non est aliqua pars ipsorum, vel
+aliquid continuum, sed est aliquid indivisibile temporis vel lineae cf. IV
+PhJsic„ lect. xvm‚ n. 10 sq.; et lib. VI, lect. 1.- Lin. seq. pro patet, oportet P.
+
+η) corpus infinitum. - Hoc om. codd. exc. sE, sed vix abesse posse
+videtum cf. etiam textus. ,
+
+θ) iuxta B quiescentem. —lta ACEF; iuxta B quiescente BDI, in-
+fra Β quiescente G, iuxta Β quiescente B P. -· Paulo infra pro e con-
+tra, e converso EI.
+
+6
+
+· finitum codd.
+
+· Num. 1.
+
